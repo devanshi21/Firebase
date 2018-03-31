@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "435869789647",
+    "firebase_url": "https://c111-53103.firebaseio.com",
+    "project_id": "c111-53103",
+    "storage_bucket": "c111-53103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435869789647:android:59482c13b64878c5",
+        "android_client_info": {
+          "package_name": "com.example.devanshipatel.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435869789647-tnlptoiutm7294r6do3gt0udg8mqepgi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "435869789647-tkg5rnf8npp8vst6bat0p0ki0eeavli1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQ451Db6Fz3ujN6Urio8PriepUNwxShg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
